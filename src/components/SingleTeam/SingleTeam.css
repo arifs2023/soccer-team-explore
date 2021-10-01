@@ -1,0 +1,13 @@
+.team-logo {
+  width: 140px;
+}
+
+.team-button {
+  color: white;
+  background-color: #5658BC
+}
+
+.team-button:hover{
+  text-decoration: none;
+  background-color: #4f51af;
+}
